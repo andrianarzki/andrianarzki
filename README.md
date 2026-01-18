@@ -53,19 +53,22 @@ I focus on writing software that is **readable today and scalable in the long ru
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
+    alt="GitHub Stats"
   />
-  <img 
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=andrianarzki&theme=tokyonight&hide_border=true"
     height="165"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
