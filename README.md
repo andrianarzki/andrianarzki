@@ -73,17 +73,6 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/andrianarzki/andrianarzki/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
