@@ -1,6 +1,4 @@
-<h1 align="center">
-  Andriana Rizki
-</h1>
+<h1 align="center">Andriana Rizki</h1>
 
 <p align="center">
   <img 
@@ -19,14 +17,14 @@
 ## 👋 About Me
 
 I’m a **backend-oriented web developer** who enjoys designing systems that are clean, structured, and easy to maintain.  
-I focus on writing code that is not only functional today, but also **scalable and readable in the long run**.
+I focus on writing software that is **readable today and scalable in the long run**.
 
 - 🎓 Informatics / Software Engineering student  
 - 🧠 Strong interest in backend architecture & system design  
 - ⚙️ Primary stack: **Laravel 11, REST API, MySQL**  
 - 🔐 Experienced with authentication, middleware, and role-based access  
 - 🧪 Familiar with clean architecture & testing mindset  
-- 🎨 Frontend-aware using **Tailwind CSS & modern JS frameworks**  
+- 🎨 Frontend-aware using **Tailwind CSS & modern JavaScript frameworks**  
 - 🤖 Occasionally build **Discord bots** for automation & utilities  
 
 > _Good software is built with clarity, not shortcuts._
