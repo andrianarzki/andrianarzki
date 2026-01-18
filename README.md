@@ -66,19 +66,14 @@ I enjoy designing systems that are **clean**, **predictable**, and **easy to ext
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=andrianarzki&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrianarzki&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrianarzki&theme=tokyonight" />
 </p>
 
 ---
