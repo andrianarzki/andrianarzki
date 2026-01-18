@@ -106,19 +106,18 @@ I enjoy designing systems that are **clean**, **predictable**, and **easy to ext
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-49769F?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/andriana-rizki-barokah">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-49769F?style=for-the-badge&logo=gmail" />
+  <a href="mailto:andrianarizkibarokah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-49769F?style=for-the-badge&logo=instagram" />
+  <a href="https://instagram.com/andrianarzki">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
-
----
 
 <p align="center">
-  <i>Consistency builds mastery. Clean code builds trust.</i>
+  <i style="color:#94A3B8;">Consistency builds mastery. Clean code builds trust.</i>
 </p>
+
