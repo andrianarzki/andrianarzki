@@ -80,15 +80,6 @@ I enjoy designing systems that are **clean**, **predictable**, and **easy to ext
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrianarzki&theme=tokyonight" />
 </p>
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=andrianarzki&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" 
-    height="220" 
-    alt="GitHub Streak Stats" 
-  />
-</div>
-
-
 ---
 
 ## 🚀 Highlighted Projects
