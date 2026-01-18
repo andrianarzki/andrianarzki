@@ -1,30 +1,38 @@
-<h1 align="center">Andriana Rizki</h1>
+<h1 align="center">👋 Hi, I'm Andriana Rizki</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=49769F&center=true&vCenter=true&width=520&lines=Backend-Oriented+Web+Developer;Laravel+%26+REST+API+Enthusiast;Building+Clean+and+Scalable+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=49769F&center=true&vCenter=true&width=600&lines=Backend-Oriented+Web+Developer;Laravel+%26+REST+API+Specialist;Building+Clean%2C+Scalable+Systems;Consistency+Over+Shortcuts"
   />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andrianarzki&label=Profile%20Views&color=49769F&style=flat" />
   <img src="https://img.shields.io/github/followers/andrianarzki?label=Followers&color=49769F&style=flat" />
+  <img src="https://img.shields.io/github/stars/andrianarzki?label=Stars&color=49769F&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-49769F?style=flat" />
+  <img src="https://img.shields.io/badge/Interest-Clean%20Architecture-49769F?style=flat" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-Backend-oriented developer focused on **clean architecture, scalability, and maintainability**.
+> **Backend-oriented developer** with strong attention to **architecture, scalability, and maintainability**.
+
+I enjoy designing systems that are **clean**, **predictable**, and **easy to extend** — not just making things work, but making them *right*.
 
 - 🎓 Informatics / Software Engineering  
-- ⚙️ Laravel 11, REST API, MySQL  
-- 🔐 Authentication, middleware, RBAC  
-- 🧪 Clean architecture & testing mindset  
-- 🎨 Tailwind & modern JavaScript  
-- 🤖 Discord bot automation  
+- ⚙️ Laravel 11, RESTful API, MySQL  
+- 🔐 Authentication, Authorization, RBAC  
+- 🧪 Clean Architecture, TDD mindset  
+- 🧩 Modular & maintainable backend design  
+- 🤖 Discord bot automation (Node.js)
 
-> _Good software is built with clarity, not shortcuts._
+> _“Good software is built with clarity, not shortcuts.”_
 
 ---
 
@@ -40,31 +48,63 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite&theme=dark" />
 </p>
 
-### 🧩 Tools
+### 🧩 Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,swagger,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 🏗️ What I Usually Build
+
+- 🔐 Authentication & Authorization Systems  
+- 🧾 RESTful APIs with validation & transactions  
+- 📊 Dashboard & admin panels  
+- 🗂️ CRUD systems with clean architecture  
+- ⚡ Scalable backend services  
+- 🤖 Discord bots & automation tools  
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrianarzki&theme=tokyonight" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=andrianarzki&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrianarzki&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-## 📁 Highlighted Projects
+## 🚀 Highlighted Projects
 
-- 🍱 Catering Marketplace Platform  
-- 📚 Library Management System  
-- 🎮 Fishing Game Web Project  
-- 🧾 Expense Approval API  
+- 🍱 **Catering Marketplace Platform**  
+  _Multi-role system, order flow, invoices, REST API_
+
+- 📚 **Library Management System**  
+  _Express.js, MySQL, clean architecture_
+
+- 🎮 **Fishing Game Web Project**  
+  _Laravel backend + React frontend_
+
+- 🧾 **Expense Approval API**  
+  _Multi-stage approval, repository pattern_
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Laravel Architecture  
+- Testing & Code Coverage  
+- System design & scalability  
+- API documentation best practices  
 
 ---
 
@@ -82,4 +122,8 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
   </a>
 </p>
 
-<p align="center"><i>Consistency builds mastery.</i></p>
+---
+
+<p align="center">
+  <i>Consistency builds mastery. Clean code builds trust.</i>
+</p>
