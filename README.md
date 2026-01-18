@@ -91,11 +91,12 @@ I focus on building software that is **readable today and scalable in the long r
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img 
+  <img
     src="https://raw.githubusercontent.com/andrianarzki/andrianarzki/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
+    width="100%"
   />
 </p>
+
 
 ---
 
