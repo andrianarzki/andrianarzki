@@ -17,12 +17,12 @@
 
 Backend-oriented developer focused on **clean architecture, scalability, and maintainability**.
 
-- 🎓 Informatics / Software Engineering
-- ⚙️ Laravel 11, REST API, MySQL
-- 🔐 Auth, middleware, RBAC
-- 🧪 Clean architecture & testing
-- 🎨 Tailwind & modern JS
-- 🤖 Discord bots automation
+- 🎓 Informatics / Software Engineering  
+- ⚙️ Laravel 11, REST API, MySQL  
+- 🔐 Authentication, middleware, RBAC  
+- 🧪 Clean architecture & testing mindset  
+- 🎨 Tailwind & modern JavaScript  
+- 🤖 Discord bot automation  
 
 > _Good software is built with clarity, not shortcuts._
 
@@ -30,8 +30,19 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
 
 ## 🧰 Tech Stack
 
+### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,prisma,html,css,js,react,vue,tailwind,vite,git,github,postman,swagger,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,prisma&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite&theme=dark" />
+</p>
+
+### 🧩 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,swagger,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -39,29 +50,36 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andrianarzki&theme=tokyonight&hide_border=true"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=andrianarzki&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
 ## 📁 Highlighted Projects
 
-- 🍱 Catering Marketplace Platform
-- 📚 Library Management System
-- 🎮 Fishing Game Web Project
-- 🧾 Expense Approval API
+- 🍱 Catering Marketplace Platform  
+- 📚 Library Management System  
+- 🎮 Fishing Game Web Project  
+- 🧾 Expense Approval API  
 
 ---
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrianarzki/andrianarzki/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/andrianarzki/andrianarzki/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
 </p>
 
 ---
