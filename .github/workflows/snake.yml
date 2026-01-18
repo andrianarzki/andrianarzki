@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: andrianarzki
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
