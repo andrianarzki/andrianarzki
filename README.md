@@ -17,7 +17,7 @@
 ## 👋 About Me
 
 I’m a **backend-oriented web developer** who enjoys designing systems that are clean, structured, and easy to maintain.  
-I focus on writing software that is **readable today and scalable in the long run**.
+I focus on building software that is **readable today and scalable in the long run**.
 
 - 🎓 Informatics / Software Engineering student  
 - 🧠 Strong interest in backend architecture & system design  
@@ -96,7 +96,7 @@ I focus on writing software that is **readable today and scalable in the long ru
 
 <p align="center">
   <img 
-    src="https://github.com/andrianarzki/andrianarzki/blob/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/andrianarzki/andrianarzki/output/github-contribution-grid-snake-dark.svg"
     alt="Contribution Snake"
   />
 </p>
