@@ -1,9 +1,7 @@
 <h1 align="center">Andriana Rizki</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=49769F&center=true&vCenter=true&width=520&lines=Backend-Oriented+Web+Developer;Laravel+%26+REST+API+Enthusiast;Building+Clean+and+Scalable+Systems"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=49769F&center=true&vCenter=true&width=520&lines=Backend-Oriented+Web+Developer;Laravel+%26+REST+API+Enthusiast;Building+Clean+and+Scalable+Systems" />
 </p>
 
 <p align="center">
@@ -15,14 +13,14 @@
 
 ## 👋 About Me
 
-Backend-oriented developer focused on **clean architecture, scalability, and maintainability**.
+Backend-oriented web developer focused on **clean architecture, scalability, and maintainable systems**.
 
-- 🎓 Informatics / Software Engineering
-- ⚙️ Laravel 11, REST API, MySQL
-- 🔐 Auth, middleware, RBAC
-- 🧪 Clean architecture & testing
-- 🎨 Tailwind & modern JS
-- 🤖 Discord bots automation
+- 🎓 Informatics / Software Engineering student  
+- ⚙️ Laravel 11, REST API, MySQL  
+- 🔐 Auth, middleware, role-based access  
+- 🧪 Clean architecture & testing mindset  
+- 🎨 Tailwind CSS & modern JS  
+- 🤖 Discord bot automation  
 
 > _Good software is built with clarity, not shortcuts._
 
@@ -31,7 +29,7 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,prisma,html,css,js,react,vue,tailwind,vite,git,github,postman,swagger,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,prisma,html,css,javascript,react,vue,tailwind,vite,git,github,postman,swagger,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -39,29 +37,19 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andrianarzki&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrianarzki&theme=tokyonight&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📁 Highlighted Projects
-
-- 🍱 Catering Marketplace Platform
-- 📚 Library Management System
-- 🎮 Fishing Game Web Project
-- 🧾 Expense Approval API
 
 ---
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrianarzki/andrianarzki/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/andrianarzki/andrianarzki/output/github-snake-dark.svg" />
 </p>
 
 ---
@@ -80,4 +68,6 @@ Backend-oriented developer focused on **clean architecture, scalability, and mai
   </a>
 </p>
 
-<p align="center"><i>Consistency builds mastery.</i></p>
+<p align="center">
+  <i>Consistency builds mastery.</i>
+</p>
