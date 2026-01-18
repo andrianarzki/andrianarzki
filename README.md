@@ -1,51 +1,52 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#49769F;">Andriana Rizki</span>
+  Andriana Rizki
 </h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=49769F&center=true&vCenter=true&width=500&lines=Web+Developer;Laravel-Oriented+Engineer;Backend-Driven+Problem+Solver"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=49769F&center=true&vCenter=true&width=520&lines=Backend-Oriented+Web+Developer;Laravel+%26+REST+API+Enthusiast;Building+Clean+and+Scalable+Systems"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andrianarzki&label=Profile%20Views&color=49769F&style=flat" />
-  <img src="https://img.shields.io/github/followers/andrianarzki?label=Followers&style=flat&color=49769F" />
+  <img src="https://img.shields.io/github/followers/andrianarzki?label=Followers&color=49769F&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-I enjoy building **structured and reliable systems** with a strong focus on backend logic.  
-My goal is to write code that remains **clear, maintainable, and scalable** over time.
+I’m a **backend-oriented web developer** who enjoys designing systems that are clean, structured, and easy to maintain.  
+I focus on writing code that is not only functional today, but also **scalable and readable in the long run**.
 
 - 🎓 Informatics / Software Engineering student  
-- ⚙️ Daily stack: **Laravel 11, REST API, MySQL**  
-- 🔐 Experienced with authentication, middleware & role access  
-- 🧪 Interested in clean architecture & testing mindset  
-- 🎨 Frontend-aware using **Tailwind & modern JS frameworks**  
-- 🤖 Occasionally build **Discord bots** for automation  
+- 🧠 Strong interest in backend architecture & system design  
+- ⚙️ Primary stack: **Laravel 11, REST API, MySQL**  
+- 🔐 Experienced with authentication, middleware, and role-based access  
+- 🧪 Familiar with clean architecture & testing mindset  
+- 🎨 Frontend-aware using **Tailwind CSS & modern JS frameworks**  
+- 🤖 Occasionally build **Discord bots** for automation & utilities  
 
-> _Clean logic over clever shortcuts._
+> _Good software is built with clarity, not shortcuts._
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### ⚙️ Backend
-<p>
+### Backend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,prisma&theme=dark" />
 </p>
 
-### 🎨 Frontend
-<p>
+### Frontend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,vite&theme=dark" />
 </p>
 
-### 🧩 Tools
-<p>
+### Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,swagger,vscode,figma&theme=dark" />
 </p>
 
@@ -54,12 +55,20 @@ My goal is to write code that remains **clear, maintainable, and scalable** over
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrianarzki&theme=tokyonight&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andrianarzki&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=andrianarzki&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarzki&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -67,23 +76,28 @@ My goal is to write code that remains **clear, maintainable, and scalable** over
 ## 📁 Highlighted Projects
 
 - 🍱 **Catering Marketplace Platform**  
-  Laravel-based web app with transactional system
+  Laravel-based web application with transactional system and role separation  
 
 - 📚 **Library Management System**  
-  REST API using Express.js & SQL database
+  REST API built using Express.js and SQL database  
 
 - 🎮 **Fishing Game Web Project**  
-  Laravel backend combined with React & Tailwind frontend
+  Laravel backend combined with React & Tailwind frontend  
 
 - 🧾 **Expense Approval API**  
-  Approval flow API with Swagger documentation & testing
+  Approval flow API with Swagger documentation and testing  
+
+> More projects are available in my repositories.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/andrianarzki/andrianarzki/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://github.com/andrianarzki/andrianarzki/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
